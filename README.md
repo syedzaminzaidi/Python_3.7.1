@@ -20,7 +20,7 @@ Also, Python, as a high level programming language, allows you to focus on core 
 of the application by taking care of common programming tasks.
 
 
-How to start Python program
+#How to start Python program
 
 Download python IDLE(shell) 3.7.1 from { https://www.python.org/downloads/ }
 Run the installer to install IDLE on your computer.
@@ -31,6 +31,6 @@ You can give any name to the file. However, the file name should end with .py
 Write Python code in the file and save it.
 
 
-Contributers in our code
+#Contributers in our code
 https://github.com/syedzaminzaidi
 https://github.com/roomyJanjua
