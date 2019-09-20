@@ -2,9 +2,9 @@ Python 3.7.1 (v3.7.1:260ec2c36a, Oct 20 2018, 14:57:15) [MSC v.1915 64 bit (AMD6
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> class cal():
 	global x
-	x = input ('enter your name')
+	x = input ('enter your first value')
 	global y
-	y = input ('enter your value')
+	y = input ('enter your second value')
 	sum = int(x) + int(y)
 	#def fun(x,y):
 	print (x)
